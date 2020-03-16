@@ -1,5 +1,7 @@
 # 🧙‍ dotfiles
 
+Based on https://github.com/addy-dclxvi/i3-starterpack
+
 Directory : `$HOME`
 
 `config` and `urxvt` are hidden/dot files
