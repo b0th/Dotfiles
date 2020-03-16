@@ -1,13 +1,16 @@
 # 🧙‍ dotfiles
 
+Directory : `$HOME`
 
-dir : `$HOME`
+`config` and `urxvt` are hidden/dot files
 
 ## i3
-in `#autostart` you can set this line as comment
+
+In `#autostart` in `.config/i3/config` you can set this line as comment
 ```
 exec --no-startup-id ~/monitors/./monitors_config.sh
 ``` 
 
 ## font
-run `font.sh`
+
+Run `font.sh`
