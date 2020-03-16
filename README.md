@@ -6,6 +6,10 @@ Directory : `$HOME`
 
 `config` and `urxvt` are hidden/dot files
 
+## Preview
+
+![my_env](./images/my_env.png)
+
 ## i3
 
 In `#autostart` in `.config/i3/config` you can set this line as comment
