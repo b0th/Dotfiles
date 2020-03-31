@@ -2,7 +2,7 @@
 
 Based on https://github.com/addy-dclxvi/i3-starterpack
 
-Directory : `$HOME`
+Target directory : `$HOME`
 
 ## Preview
 
