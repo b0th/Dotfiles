@@ -4,8 +4,6 @@ Based on https://github.com/addy-dclxvi/i3-starterpack
 
 Directory : `$HOME`
 
-`config` and `urxvt` are hidden/dot files
-
 ## Preview
 
 ![my_env](./images/my_env.png)
@@ -18,4 +16,4 @@ exec --no-startup-id ~/monitors/./monitors_config.sh
 ``` 
 
 ## Install
-run `install.sh`
+run `chmod +x install.sh ; install.sh`
