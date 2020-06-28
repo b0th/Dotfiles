@@ -2,14 +2,12 @@
 
 Based on https://github.com/addy-dclxvi/i3-starterpack
 
-Target directory : `$HOME`
+## Install
+`chmod +x install.sh ; install.sh`
 
-## i3
+## Comments
 
 At `#autostart` line in `.config/i3/config` you should set this line as comment.
 ```
 exec --no-startup-id ~/monitors/./monitors_config.sh
 ``` 
-
-## Install
-`chmod +x install.sh ; install.sh`
