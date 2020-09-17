@@ -1,13 +1,13 @@
 # 🧙‍ dotfiles
 
-Based on https://github.com/addy-dclxvi/i3-starterpack
-
 ## Install
 `chmod +x install.sh ; install.sh`
 
 ## Themes
 
-Change theme name in `.Xressources`.
+- Change theme in `~/.Xressources`.
+- Custom themes in `~/X-packs/themes/`
+
 
 ## Comments
 
